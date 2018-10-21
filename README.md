@@ -1,2 +1,5 @@
 # Titanic-Machine-Learning-from-Disaster-Kaggle
-Titanic: Machine Learning from Disaster | Kaggle Code 
+
+# Kaggle-Competition Notebooks and Scripts.
+
+Titanic: Machine Learning from Disaster | Kaggle 
